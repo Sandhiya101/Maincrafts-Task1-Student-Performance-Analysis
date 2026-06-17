@@ -5,12 +5,14 @@ This is my Task 1 submission for the Data Science and Data Analysis with Python 
 In this project, I analyzed the Student Performance dataset using Python. I checked the dataset, handled data cleaning, calculated some basic statistics, and created graphs to understand student performance.
 
 Tools Used
+
 Python
 Pandas
 Matplotlib
 Google Colab
 
 Findings
+
 Average Final Grade: 10.42
 Students Scoring Above 15: 40
 Study Time and Grade Correlation: 0.0978
